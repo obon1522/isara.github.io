@@ -113,9 +113,6 @@ h2{
   margin-right: auto;
 }
 .mainimg{
-  background-image:url(../img/main.jpg);
-  background-size: cover;
-  background-position: center;
   height: 500px;
   width: 100%;
   display: table;
