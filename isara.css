@@ -117,7 +117,7 @@ h2{
   background-image : url(main.jpg);
   background-size: cover;
   height: 500px;
-  max-width: 1260px;
+  width: 1260px;
   display: table;
 }
 .maintext{
