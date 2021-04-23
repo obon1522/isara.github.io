@@ -117,11 +117,9 @@ h2{
   background-image : url(main.jpg);
   background-size: cover;
   height: 500px;
-  display: table;
 }
 .maintext{
-  display: table-cell;
-  vertical-align: middle;
+　vertical-align: middle;
   text-align: center;
   font-weight: bold;
   font-size: 22px;
