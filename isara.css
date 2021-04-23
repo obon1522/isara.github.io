@@ -113,7 +113,7 @@ h2{
   margin-right: auto;
 }
 .mainimg{
-  background-img: url(main.jpg);
+  background-image: url(main.jpg);
   background-position: center;
   background-size: cover;
   height: 500px;
