@@ -119,6 +119,7 @@ h2{
   height: 500px;
 }
 .maintext{
+  align-items: center;
   text-align: center;
   font-weight: bold;
   font-size: 22px;
