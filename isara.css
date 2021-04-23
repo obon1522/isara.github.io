@@ -465,7 +465,7 @@ font-size: 0.875rem;
 }
 
 .teacher{
-background-image: url(../img/teacherbg.jpg);
+background-image: url(teacherbg.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 color: white;
@@ -644,7 +644,7 @@ section3
 
 
 .class{
- background-image: url(../img/classbg.jpg);
+ background-image: url(classbg.jpg);
  background-repeat: no-repeat;
  background-size: cover;
  margin:0;
@@ -771,7 +771,7 @@ color: #333;
   display: none;
 }
 .bangkok{
- background-image: url(../img/bangkokbg.jpg);
+ background-image: url(bangkokbg.jpg);
  background-position: center;
  background-size: cover;
  padding: 80px 80px;
@@ -879,7 +879,7 @@ margin: 0 auto;
 }
 
 .specialdetail{
-background-image: url(../img/specialdetail.jpg);
+background-image: url(specialdetail.jpg);
 background-position: center;
 background-size: cover;
 color: #fff;
@@ -1276,7 +1276,7 @@ content: "\f2b6";
   padding-top: 60px;
 }
 .mainimg{
-  background-image:url(../img/mainsp.jpg);
+  background-image:url(mainsp.jpg);
   height: 312px;
 }
 .maintext img{
@@ -1434,7 +1434,7 @@ code{
 ---------------------------------*/
 @media screen and (max-width: 768px){
 .step-about{
-  background-image: url(../img/aboutsecondbgsp.jpg);
+  background-image: url(aboutsecondbgsp.jpg);
   padding: 30px 30px;
 }
 .step-about h2{
@@ -1561,7 +1561,7 @@ code{
 
 .teacher{
   padding: 50px 0px 20px;
-  background-image: url(../img/teacherbgsp.jpg);
+  background-image: url(teacherbgsp.jpg);
   text-align: center;
 }
 .teacher h2{
@@ -1773,7 +1773,7 @@ code{
   }
 
   .class {
-    background-image: url(../img/classbgsp.jpg);
+    background-image: url(classbgsp.jpg);
     padding: 35px 0 20px;
   }
   .class-intro h2{
@@ -1969,7 +1969,7 @@ code{
   }
 
   .bangkok{
-    background-image: url(../img/bangkokbgsp.jpg);
+    background-image: url(bangkokbgsp.jpg);
     padding: 20px 15px 30px;
   }
   .bangkokdetail h2{
@@ -2031,7 +2031,7 @@ code{
   }
 
   .specialdetail {
-    background-image: url(../img/specialdetailsp.jpg);
+    background-image: url(specialdetailsp.jpg);
     padding: 20px 10px 25px;
   }
   .specialdetail .mtext{
