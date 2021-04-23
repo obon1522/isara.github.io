@@ -1243,7 +1243,7 @@ content: "\f2b6";
 }
 @media only screen and (min-width: 768px) and (max-width: 1190px){
   .brsp{
-    display: block;
+    display: none;
   }
   .brsp3{
     display: block;
