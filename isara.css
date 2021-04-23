@@ -117,8 +117,7 @@ h2{
   background-image : url(main.jpg);
   background-size: cover;
   height: 500px;
-  max-width: 1260px;
-  width: auto;
+  max-width: 1265px;
   display: table;
 }
 .maintext{
@@ -194,7 +193,7 @@ code{
  background-size: cover;
  background-position: center;
  text-align: center;
- padding-top: 40px;
+ padding: 40px 20px 0px;
 }
 .intro-title{
   width:860px;
@@ -238,7 +237,7 @@ code{
 .about{
    text-align: center;
    background-color: #fef5e0;
-   padding-bottom: 70px;
+   padding:0px 20px 70px;
 }
 .about-btn{
    position: relative;
