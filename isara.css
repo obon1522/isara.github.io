@@ -119,10 +119,10 @@ h2{
   height: 500px;
 }
 .maintext{
-　
   text-align: center;
   font-weight: bold;
   font-size: 22px;
+  margin: auto;
 }
 .maintext img{
   width: 320px;
